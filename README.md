@@ -1,1 +1,5 @@
-"# income-and-expenditure-control, Ilerna Project" 
+# Income and Expenditure Control
+#### Training project
+#### Academic Discipline: Programming B 
+#### Training Center: Ilerna 
+
